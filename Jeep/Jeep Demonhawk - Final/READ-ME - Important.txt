@@ -1,6 +1,6 @@
 Cars Pack By Mr.TnT.
 
-rename this folder from Jeep Demonhawk - Final to > -TO-> demonhawk
+rename this folder from Jeep Demonhawk - Final to > -TO-> dcd
 
 
 add demonhawk to your server.cfg
